@@ -36,3 +36,9 @@ Technologies and Techniques
 	•	Player 1 will be controlled by the Arduino joystick.
 	•	Player 2 will be controlled by the keyboard (arrow keys for movement, W for expanding the button, B for switching screens).
 
+
+
+https://github.com/infinite2004/StreetFigher2099/assets/44120607/b50837bb-000c-42dd-b3f3-fecc89fc3fec
+
+
+
